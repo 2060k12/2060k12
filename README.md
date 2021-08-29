@@ -1,24 +1,18 @@
-### Hi there, I'm Phoenix👋
+<img src="https://github.com/pho3nix69/pho3nix/blob/d55c852f9664060a84b944c6f25e3622e6f1fbb2/svg.svg"/>
 
-## I'm a Learner, Who is learning!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning Python 🤣
-- 👯 I’m looking to do someting new
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to sing and play guitar
+<p><em>I'm a learner who is learning 😊</br>
+</em></p>
 
-<br />
 
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-
----
-
+```javascript
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [ HTML, CSS, Python],
+   technologies: {
+      
+   Funfact: ["!7 year old student, learning as a passion"],
+   challenge: "I'm working towards being able to run a marathon.",
+};
+```
+</br></br>
