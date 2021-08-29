@@ -8,8 +8,8 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [ HTML, CSS, Python],
-   technologies: {
+   code: [ HTML, CSS, Python, Javascript],
+   Skills: [Photoshop],
       
    Funfact: ["!7 year old student, learning as a passion"],
    challenge: "I'm working towards being able to run a marathon.",
