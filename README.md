@@ -1,6 +1,6 @@
 ### Hi there, I'm Phoenix👋
 
-## I'm a Learner, Who is learnig!!
+## I'm a Learner, Who is learning!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning Python 🤣
