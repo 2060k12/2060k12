@@ -1,7 +1,7 @@
 <img src="https://github.com/pho3nix69/pho3nix69/blob/b51f34a03dbaba9df37972337e2376d8976bc166/svg.svg"/>
 
 
-<p><em>I'm a learner who is learning 😊</br>
+<p><em>I’M STILL LEARNING </br>
 </em></p>
 
 
