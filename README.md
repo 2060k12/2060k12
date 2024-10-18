@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Pranish! <br>I’m passionate about mobile development and currently learning Jetpack Compose and SwiftUI to build seamless and modern apps. <br><br>📱 I'm currently working on a full-stack e-commerce app with a Node.js and Express backend, and an iOS app for the frontend. <br>💼 Check out my portfolio at [pranish.webflow.io](https://pranish.webflow.io) to see my latest projects!<br>
+👋 Hi, I'm Pranish! <br>I’m passionate about mobile development and currently learning Jetpack Compose and SwiftUI to build seamless and modern apps. <br><br>💼 Check out my portfolio at [pranish.webflow.io](https://pranish.webflow.io) to see my latest projects!<br>
 
 
 ## 🌐 Socials:
